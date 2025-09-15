@@ -35,7 +35,7 @@ This project was built as part of a UI/UX developer assignment.
 ## 🛠 Tech Stack
 
 -
-- Deployment: [Vercel][(https://vercel.com) ](https://saas-contracts-dashboard-rstt-lmn2gin27.vercel.app) 
+- Deployment: [(https://saas-contracts-dashboard-rstt-lmn2gin27.vercel.app) ] 
 
 ---
 saas-contracts-dashboard/
